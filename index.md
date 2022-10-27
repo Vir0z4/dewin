@@ -8,7 +8,7 @@ permalink: /
 
 ***deWin*** **is currently under development, and is expected to be available in autumn of 2022.**
 
-## deWin Variants
+### deWin Variants
 
 *deWin* is available in 3 variants:
 
@@ -18,6 +18,6 @@ permalink: /
 
 Windows 11 variants will be available in the future.
 
-## Documentation
+### Documentation
 
 No special documentation is necessary for *deWin*. The installation process is no different from any other standard Windows ISOs.
