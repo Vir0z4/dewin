@@ -1,11 +1,11 @@
-# iWin
-*iWin* is a suite of optimized and debloated Windows ISOs. They also potentially offer superior performance compared to standard Windows installations, as most Microsoft's useless shenanigans that run in the background have been removed.
+# deWin
+*deWin* is a suite of optimized and debloated Windows ISOs. They also potentially offer superior performance compared to standard Windows installations, as most Microsoft's useless shenanigans that run in the background have been removed.
 
-**iWin is currently under development, and is expected to be available in autumn of 2022.**
+**deWin is currently under development, and is expected to be available in autumn of 2022.**
 
 ## Versions
 
-*iWin* currently offers two Windows 10 versions, Windows 11 versions will be available in the future.
+*deWin* currently offers two Windows 10 versions, Windows 11 versions will be available in the future.
 
 * Windows 10 Home 22H2 64-bit
 
