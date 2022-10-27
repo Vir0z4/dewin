@@ -1,1 +1,33 @@
+title: deWin
+author: Vir0z4 Network
+  name: Vir0z4
+  email: contact@vir0z4.com
+description: >
+  Microsoft®, Windows®, Windows 10®, and the Windows logo are 
+  registered trademarks of Microsoft Corporation.
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filaters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: vir0z4
+    github:  vir0z4
+    instagram: vir0z4
+    youtube_channel: UC0cViPkDSGzhkxwZb4YZiow
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
 theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
