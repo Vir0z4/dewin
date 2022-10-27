@@ -20,4 +20,4 @@ Windows 11 variants will be available in the future.
 
 ## Documentation
 
-No special documentaion is necessary for *deWin*. The installation process is no different from any other standard Windows ISOs.
+No special documentation is necessary for *deWin*. The installation process is no different from any other standard Windows ISOs.
