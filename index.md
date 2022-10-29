@@ -3,6 +3,7 @@ layout: page
 title: Optimized, debloated, privacy Windows ISOs
 permalink: /
 ---
+<link rel="stylesheet" type="text/css" href="buttons.css" />
 
 <a href="/download"><button class="btn btn-light">Download deWin</button></a>
 
