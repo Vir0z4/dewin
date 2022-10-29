@@ -14,7 +14,6 @@ permalink: /
 
 [button url="http://www.google.com"]
 
-
 *deWin* is a suite of **optimized** and **debloated** Windows ISOs. They can offer superior performance compared to standard Windows installations, as some of Microsoft's useless shenanigans that run in the background have been removed.
 
 *deWin* is also better for **privacy**. All telemetry has been disabled. Automatic/promoted app installation, Feedback, as well as various "sending Microsoft diagnostic data" have also been disabled. OOBE has been modified, it does not force you to use a Microsoft account, and some useless privacy options have been removed. Some other things like "Search on Bing" in the search menu have also been disabled.
