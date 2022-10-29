@@ -5,9 +5,7 @@ permalink: /
 ---
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-<a class="github-button" href="https://github.com/buttons/github-buttons/archive/HEAD.zip" data-icon="octicon-download" data-size="large" aria-label="Download buttons/github-buttons on GitHub">Download</a>
-
-<a href="/downloads"><button name="button">Download deWin</button></a>
+<a class="github-button" href="/downloads" data-icon="octicon-download" data-size="large" aria-label="Download deWin">Download deWin</a>
 
 *deWin* is a suite of **optimized** and **debloated** Windows ISOs. They can offer superior performance compared to standard Windows installations, as some of Microsoft's useless shenanigans that run in the background have been removed.
 
