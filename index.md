@@ -5,7 +5,7 @@ permalink: /
 ---
 <link rel="stylesheet" type="text/css" href="buttons.css" />
 
-<button class="btn btn-light">Download deWin</button>
+<a href="/download"><button>Download deWin</button></a>
 
 *deWin* is a suite of **optimized** and **debloated** Windows ISOs. They can offer superior performance compared to standard Windows installations, as some of Microsoft's useless shenanigans that run in the background have been removed.
 
