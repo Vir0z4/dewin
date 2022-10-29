@@ -3,9 +3,14 @@ layout: page
 title: Optimized, debloated, privacy Windows ISOs
 permalink: /
 ---
+<link rel="stylesheet" href="/button.css">
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
 <a class="github-button" href="https://dewin.vir0z4.com/downloads" data-icon="octicon-download" data-size="large">Download deWin</a>
+
+<div class="btn">
+<a class="mybtn" href="https://dewin.vir0z4.com/downloads">Download deWin</a>
+</div>
 
 *deWin* is a suite of **optimized** and **debloated** Windows ISOs. They can offer superior performance compared to standard Windows installations, as some of Microsoft's useless shenanigans that run in the background have been removed.
 
