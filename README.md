@@ -1,6 +1,5 @@
 # deWin
-[![Release](https://img.shields.io/badge/version-10%20v1.0-brightgreen)](https://github.com/Vir0z4/dewin/releases)
-[![Downloads](https://img.shields.io/github/downloads/vir0z4/dewin/total)](https://github.com/Vir0z4/dewin/releases)
+![https://dewin.vir0z4.com](https://img.shields.io/badge/version-10%20v1.0-blue)
 ![GitHub issues](https://img.shields.io/github/issues/vir0z4/dewin)
 
 *deWin* is a suite of **optimized** and **debloated** Windows ISOs. They can offer superior performance compared to standard Windows installations, as some of Microsoft's useless shenanigans that run in the background have been removed.
