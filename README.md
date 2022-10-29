@@ -8,34 +8,6 @@
 
 **For maximum privacy**, please disable "Automatic sample submission" in Windows Defender after installation.
 
-## deWin Variants
+## Download & Learn More
 
-*deWin* is available in 3 variants:
-
-* Windows 10 Home 22H2 64-bit
-* Windows 10 Professional 22H2 64-bit
-* Windows 10 Professional Workstation 22H2 64-bit (Pro Workstation is an advanced version of Pro)
-
-Windows 11 variants will be available in the future.
-
-## Documentation & Disclaimer
-
-No special documentation is necessary for *deWin*. The installation process is no different from any other standard Windows ISOs.
-
-We are not responsible for anything that could happen while using this product.
-
-## Apps removed (some can be reinstalled)
-
-* BingWeather
-* Cortana
-* GetHelp
-* Office Hub
-* OneNote
-* People
-* Skype
-* Tips
-* WindowsFeedbackHub
-* WindowsMaps
-* YourPhone
-* Zune apps
-* Promoted apps (Candy Crush, Minecraft Bedrock Edition, etc...)
+To download or learn more about deWin and its variants, please visit the [website](https://dewin.vir0z4.com).
