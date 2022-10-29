@@ -11,15 +11,15 @@ Latest version of deWin: **10 v1.0** (10 = Windows 10, v1.0 = version 1.0)
 
 Three variants are available for download:
 
-* Windows 10 Home 22H2 64-bit
+**Windows 10 Home 22H2 64-bit**
 
 <a href="https://download.vaiolibrary.com/dewin/deWin10_v1.0_HomeEdition.iso"><button>Download Home Edition</button></a>
 
-* Windows 10 Professional 22H2 64-bit
+**Windows 10 Professional 22H2 64-bit**
 
 <a href="https://download.vaiolibrary.com/dewin/deWin10_v1.0_ProfessionalEdition.iso"><button>Download Professional Edition</button></a>
 
-* Windows 10 Professional Workstation 22H2 64-bit (Pro Workstation is an advanced version of Pro)
+**Windows 10 Professional Workstation 22H2 64-bit** (Pro Workstation is an advanced version of Pro)
 
 <a href="https://download.vaiolibrary.com/dewin/deWin10_v1.0_ProfessionalWorkstationEdition.iso"><button>Download Professional Workstation Edition</button></a>
 
