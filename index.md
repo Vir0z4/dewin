@@ -1,8 +1,11 @@
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 ---
 layout: page
 title: Optimized, debloated, privacy Windows ISOs
 permalink: /
 ---
+
+<a class="github-button" href="https://github.com/buttons/github-buttons/archive/HEAD.zip" data-icon="octicon-download" aria-label="Download buttons/github-buttons on GitHub">Download</a>
 
 <a href="/downloads"><button name="button">Download deWin</button></a>
 
