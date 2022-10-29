@@ -23,12 +23,6 @@ permalink: /
 
 Windows 11 variants will be available in the future.
 
-### Documentation & Disclaimer
-
-No special documentation is necessary for *deWin*. The installation process is no different from any other standard Windows ISOs.
-
-We are not responsible for anything that could happen while using this product.
-
 ### Apps removed (some can be reinstalled)
 
 * BingWeather
@@ -44,3 +38,9 @@ We are not responsible for anything that could happen while using this product.
 * YourPhone
 * Zune apps
 * Promoted apps (Candy Crush, Minecraft Bedrock Edition, etc...)
+
+### Documentation & Disclaimer
+
+No special documentation is necessary for *deWin*. The installation process is no different from any other standard Windows ISOs.
+
+We are not responsible for anything that could happen while using this product.
