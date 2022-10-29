@@ -13,17 +13,10 @@ show_excerpts: false # set to true to show excerpts on the homepage
 minima:
   date_format: "%b %-d, %Y"
 
-  # generate social links in footer
-  social_links:
-    twitter: vir0z4
-    github:  vir0z4
-    instagram: vir0z4
-    youtube_channel: UC0cViPkDSGzhkxwZb4YZiow
-
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+ - download.md
 
 # Build settings
 theme: minima
